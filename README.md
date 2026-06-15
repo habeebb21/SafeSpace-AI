@@ -171,8 +171,7 @@ http://localhost:8501
 
 You can add your project demo recording here:
 
-- Demo video link: `Add your link here`
-- Local recording file: `./assets/recording.mp4`
+- Demo video file: `assets/recordings/safespace-ai-demo.mp4`
 
 If you want, I can also help you create a short demo script for the recording.
 
@@ -183,14 +182,16 @@ If you want, I can also help you create a short demo script for the recording.
 Add screenshots to show the main UI and conversation flow:
 
 ### Suggested screenshots
-- Chat homepage
-- Normal conversation response
-- Therapist search output
-- Crisis response screen
+- Chat homepage — `assets/screenshots/ai-therapist-chat.png`
+- Normal conversation response — `assets/screenshots/medgemma-medical-response.png`
+- Therapist search output — `assets/screenshots/therapist-search.png`
+- Crisis response screen — `assets/screenshots/emergency-call-flow.png`
+- Medical safety test — `assets/screenshots/critical-health-response.png`
+- Hallucination test — `assets/screenshots/hallucination-test.png`
 
 ### Example placement
 ```markdown
-![Chat UI](./assets/screenshots/chat-ui.png)
+![Chat UI](./assets/screenshots/ai-therapist-chat.png)
 ![Therapist Search](./assets/screenshots/therapist-search.png)
 ```
 

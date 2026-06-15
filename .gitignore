@@ -11,3 +11,9 @@ wheels/
 
 # Environment variables (contains real API keys)
 .env
+
+# Runtime logs
+*.log
+
+# Temporary upload folder
+upload this/
