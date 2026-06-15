@@ -169,11 +169,12 @@ http://localhost:8501
 
 ## 8) Recording 🎥
 
-You can add your project demo recording here:
+### Demo Video
 
-- Demo video file: `assets/recordings/safespace-ai-demo.mp4`
+![SafeSpace-AI Demo Video](./assets/recordings/safespace-ai-demo.mp4)
 
-If you want, I can also help you create a short demo script for the recording.
+If the preview does not render on GitHub, the file is still available here:
+`./assets/recordings/safespace-ai-demo.mp4`
 
 ---
 
@@ -188,6 +189,20 @@ Add screenshots to show the main UI and conversation flow:
 - Crisis response screen — `assets/screenshots/emergency-call-flow.png`
 - Medical safety test — `assets/screenshots/critical-health-response.png`
 - Hallucination test — `assets/screenshots/hallucination-test.png`
+
+### Screenshots
+
+![Chat UI](./assets/screenshots/ai-therapist-chat.png)
+
+![Medical Response](./assets/screenshots/medgemma-medical-response.png)
+
+![Therapist Search](./assets/screenshots/therapist-search.png)
+
+![Emergency Call Flow](./assets/screenshots/emergency-call-flow.png)
+
+![Critical Health Response](./assets/screenshots/critical-health-response.png)
+
+![Hallucination Test](./assets/screenshots/hallucination-test.png)
 
 ### Example placement
 ```markdown
